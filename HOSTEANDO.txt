@@ -1,0 +1,15 @@
+npm run dev
+
+git remote add origin [origen]
+git status
+git add .
+git commit -m "mensaje"
+git push
+
+
+en render
+NEW Static Site
+elegimos el repo dde github
+
+build comand es  el que configuramos en el package json
+npm run build
